@@ -1,4 +1,4 @@
-![MasterHead](https://pics.craiyon.com/2023-09-28/a042ebb4c9b543bcb92c92784b747c9e.webp)
+
 <h1 align="center">Hi 👋, I'm Tsiory</h1>
 <h3 align="center">A passionate full-stack developer with skills in front-end (HTML, CSS, JavaScript) and back-end (C#, Java, Python, SQL) development.</h3>
 
