@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Tsiory</h1>
-<h3 align="center">A passionate full-stack developer with skills in front-end (HTML, CSS, JavaScript) and back-end (C#, Java, Python, SQL) development.</h3>
+<h3 align="center">A passionate Junior full-stack developer with skills in front-end (HTML, CSS, JavaScript) and back-end (C#, Java, Python, SQL) development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsiory17&label=Profile%20views&color=0e75b6&style=flat" alt="tsiory17" /> </p>
 
