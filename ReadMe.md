@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, my name is Tsiory Rakotoarimanana</h1>
-<h3 align="center">A full-stack developer driven by curiosity. From building responsive interfaces with HTML, CSS, and JavaScript to building secure, scalable backends in C#, Java, Python, and SQL—I'm all about turning ideas into digital experiences.</h3>
+<h3 align="center">A full-stack developer driven by curiosity. From building responsive interfaces with framework such as React, Angular, and more to building secure, scalable backends in C#, Java, Python, and SQL—I'm all about turning ideas into digital experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsiory17&label=Profile%20views&color=0e75b6&style=flat" alt="tsiory17" /> </p>
 
