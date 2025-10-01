@@ -1,10 +1,10 @@
 
-<h1 align="center">Hi 👋, I'm Tsiory</h1>
-<h3 align="center">A passionate Junior full-stack developer with skills in front-end (HTML, CSS, JavaScript) and back-end (C#, Java, Python, SQL) development.</h3>
+<h1 align="center">Hi 👋, my name is Tsiory Rakotoarimanana</h1>
+<h3 align="center">A full-stack developer driven by curiosity. From building responsive interfaces with HTML, CSS, and JavaScript to building secure, scalable backends in C#, Java, Python, and SQL—I'm all about turning ideas into digital experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsiory17&label=Profile%20views&color=0e75b6&style=flat" alt="tsiory17" /> </p>
 
-- 🌱 I’m currently learning **React and Angular**
+- 🌱 Always building new projects**
 
 - 💬 Ask me about **OOP, C#, JavaScript**
 
